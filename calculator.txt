@@ -9,5 +9,8 @@ int subtraction=a-b;
 
 multiply=a*b;
 
+divide=a/b;
+
+
 }
 }

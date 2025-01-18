@@ -7,5 +7,7 @@ int sum=a+b;
 
 int subtraction=a-b;
 
+multiply=a*b;
+
 }
 }

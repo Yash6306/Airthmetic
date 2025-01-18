@@ -7,3 +7,5 @@ wow we added multiplication code too
  the code is completed as we added division code
 
 
+ALL THE CODES HAVE BEEN MERGED IN FEATURE BRANCH
+

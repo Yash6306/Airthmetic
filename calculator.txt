@@ -4,5 +4,8 @@ class calculator{
 int a;
 int b;
 int sum=a+b;
+
+int subtraction=a-b;
+
 }
 }
